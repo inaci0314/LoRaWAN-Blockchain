@@ -13,7 +13,7 @@ git clone https://gitlab.epai-ict.ch/m526/lorawan-blockchain.git
 ## How it works
 Here is a diagram showing how the project works :
 
-![Operating diagram](pics/scheme.png)
+<Insert Diagram>
 
 ## Built with
 
