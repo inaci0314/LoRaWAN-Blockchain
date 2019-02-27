@@ -25,7 +25,7 @@ Here is a diagram showing how the project works :
 
 * **Frédéric Mauron** - *Teacher*
 * **Carolina Inácio Pereira** - *Blockchain constructor*
-* **Noah Godel** - *Front-end and user interface (AngluarJS)*
+* **Noah Godel** - *Front-end and user interface (AngularJS)*
 * **Valentin Roch** - *LoRaWAN Communication and Arduino*
 * **Cyril Buchs** - *Author of the documentation*
 
